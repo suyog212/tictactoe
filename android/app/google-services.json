@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829398924576",
+    "project_id": "tic-tac-game-2380f",
+    "storage_bucket": "tic-tac-game-2380f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829398924576:android:dc941c1de64cf7fec6ab45",
+        "android_client_info": {
+          "package_name": "com.example.tic_tac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829398924576-qnu2gtoeop09ife2el0tekfovig6tnni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tic_tac",
+            "certificate_hash": "f84a4cb41deb8c0e8356815b0191c2e18487dcf9"
+          }
+        },
+        {
+          "client_id": "829398924576-0d6vu35osugisld1ro7h6k0kcirsoqg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUnzFA9ArL02H3SCCJ6WrY-hevUamkNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829398924576-0d6vu35osugisld1ro7h6k0kcirsoqg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
